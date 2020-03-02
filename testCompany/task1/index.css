@@ -1,0 +1,23 @@
+.table {
+  height: 50px;
+  width: 50px;
+  border: 0.2px solid cadetblue;
+  /* display: inline-block; */
+  text-align: center;
+  font-size: 40px;
+}
+
+.ward {
+  width: auto;
+}
+.ward-table {
+  display: flex;
+}
+.game-Over {
+  background-color: red;
+}
+.btn {
+  display: flex;
+  margin: auto;
+  padding-bottom: 20px;
+}

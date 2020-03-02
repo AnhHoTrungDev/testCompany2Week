@@ -1,0 +1,40 @@
+.header-snake {
+  background-color: white;
+  z-index: 999;
+  box-shadow: inset 0 0 0px 4px rgb(0, 0, 0);
+}
+.snake-body {
+  background-color: black;
+  box-shadow: inset 0 0 0px 2px #e5e5e5;
+}
+
+.ward {
+  width: 410px;
+  height: 410px;
+  margin: auto;
+  background-color: silver;
+}
+
+.backGround {
+  width: 20px;
+  height: 20px;
+  border: 0.2px solid cadetblue;
+}
+
+.apple {
+  background-color: red;
+  border-radius: 100px;
+}
+.row {
+  display: flex;
+}
+
+.btn {
+  padding: 5px;
+  width: 410px;
+  margin: auto;
+  text-align: center;
+}
+.GameOver {
+  background-color: red;
+}
